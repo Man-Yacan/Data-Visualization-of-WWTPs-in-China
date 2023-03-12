@@ -1,13 +1,10 @@
-# Data Visualization of WWTPs in China
- 中国各地区在1961\~2014期间建立的污水处理厂的信息，具体信息包括：污水处理厂名称、地理位置、设计规模，现运行规模、处理工艺，以及建厂日期。
-
 ## 食用指南
 
 > ### Warning / 注意
 >
 > 本页不能兼容全部移动端设备！请尽量使用桌面版或或者大屏设备访问！
 >
-> GitHub链接：[Data-Visualization-of-WWTPs-in-China](https://github.com/Man-Yacan/Data-Visualization-of-WWTPs-in-China)
+> GitHub链接：[Data-Visualization-of-WWTPs-in-China](https://github.com/Man-Yacan/Data-Visualization-of-WWTPs-in-China)，个人博客访问地址：[亚灿网志](https://blog.manyacan.com/archives/1881/)。
 
 数据介绍：中国各地区在1961\~2014期间建立的污水处理厂的信息，具体信息包括：污水处理厂名称、地理位置、设计规模，现运行规模、处理工艺，以及建厂日期。
 
